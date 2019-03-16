@@ -17,6 +17,7 @@ body{
 	width: 960px;
 	margin: 20px;
 	text-align: center;
+	font-size: 17.5px;
 }
 
 .square{
@@ -163,7 +164,7 @@ a:active {
 	text-decoration: none;
 }
 a:hover {
-	color: black;
+	color: #3095d3;
 	text-decoration: none;
 }
 
